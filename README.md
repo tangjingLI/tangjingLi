@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning software engineering.
 - 📫 How to reach me: tjLi0_0@163.com
 - 🔭 My Blog: https://tangjingli.github.io/
+
+✨ Tech Stack
+
+- html + css + javascript
+- Java, C++, Python
