@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🏃🏻 About Me
 
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m currently learning software engineering in Nanjing University
 - 📫 How to reach me: tjLi0_0@163.com
 - 🔭 My Blog: https://tangjingli.github.io/
 
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 - html + css + javascript
 - Java, C++, Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
