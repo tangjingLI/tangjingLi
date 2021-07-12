@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**tangjingLI/tangjingLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **tangjingLI/tangjingLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangjingLi)](https://github.com/anuraghazra/github-readme-stats)
 
 🏃🏻 About Me
 
--🌱 I’m currently learning software engineering.
--📫 How to reach me: tjLi0_0@163.com
--🔭 My Blog: https://tangjingli.github.io/
+- 🌱 I’m currently learning software engineering.
+- 📫 How to reach me: tjLi0_0@163.com
+- 🔭 My Blog: https://tangjingli.github.io/
