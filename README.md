@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangjingLi)](https://github.com/anuraghazra/github-readme-stats)
+
+🏃🏻 About Me
+
+  🌱 I’m currently learning software engineering.
+  📫 How to reach me: tjLi0_0@163.com
+  🔭 My Blog: https://tangjingli.github.io/
