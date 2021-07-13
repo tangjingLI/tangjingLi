@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 
 - html + css + javascript
 - Java, C++, Python
-- MySQL
+- MySQL + neo4j
+- Android + Kotlin
 
