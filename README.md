@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 - html + css + javascript
 - Java, C++, Python
 - MySQL + neo4j
-- Android + Kotlin
 
